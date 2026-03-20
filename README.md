@@ -38,7 +38,7 @@ The dataset contains information about:
 
 4.  Dashboard Preview
 
-(Dashboard.png)
+Dashboard.png
 
 ---
 
@@ -50,9 +50,9 @@ To monitor and analyze air pollution levels in smart cities and support **SDG-11
 
 6. How to Use
 
-1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Use filters to explore data
+* Download the `.pbix` file
+* Open in Power BI Desktop
+* Use filters to explore data
 ---
 
 7.  Authors
